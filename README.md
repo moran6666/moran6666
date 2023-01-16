@@ -8,5 +8,10 @@
 
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=wangzirui32&theme=dark&layout=compact)
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=wangzirui32&show_icons=true&theme=dark&count_private=true)
-![](https://activity-graph.herokuapp.com/graph?username=chunfeng666&theme=github)
 
+
+<p align="left">
+<a href="https://github.com/ryo-ma/github-profile-trophy">
+<img src="https://github-profile-trophy.vercel.app/?username=SuperSkidder" alt="SuperSkidder" />
+</a>
+</p>
