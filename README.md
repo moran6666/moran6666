@@ -10,6 +10,11 @@
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=moran666&show_icons=true&theme=dark&count_private=true)
 
 
+### Github 活跃度
+
+[![](https://activity-graph.herokuapp.com/graph?username=Minori-ty&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
+![Minori-ty's github stats](https://github-readme-stats.vercel.app/api?username=Minori-ty&show_icons=true&theme=vue)
+
 <p align="left">
 <a href="https://github.com/ryo-ma/github-profile-trophy">
 <img src="https://github-profile-trophy.vercel.app/?username=moran666" alt="moran666" />
