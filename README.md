@@ -1,6 +1,6 @@
-# Hi ‍❤️‍ im moran666 
+# Hi ‍❤️‍ im staykiller 
 
-<img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome,%20Caller!;Hello%20Github%20World!&font=Roboto" />
+<img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome,%20Visitor!;Hello%20Github%20World!&font=Roboto" />
 
 <p>
 <a href="https://space.bilibili.com/580203163"><img src="https://img.shields.io/static/v1?label=Video&message=Bilibili&color=cyan"/></a>
