@@ -7,11 +7,11 @@ I'm a software developer based in **Jiangsu, China** 🇨🇳.
 - 🔭 I’m currently working on building web applications.
 - 🌱 I’m currently learning React and AWS. 
 - 💬 Ask me about anything related to web development!
-- 📫 How to reach me: john.doe@example.com
+- 📫 How to reach me: test@example.com
 - 😄 Pronouns: he/him
 
 ### Skills & Tools
-...
+
 
 
 <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome,%20Visitor!;Hello%20Github%20World!&font=Roboto" />
